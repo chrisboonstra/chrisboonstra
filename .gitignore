@@ -1,2 +1,3 @@
-.streamlit/secrets
+.streamlit/
 **/__pycache__/
+app/config/repos.yaml
